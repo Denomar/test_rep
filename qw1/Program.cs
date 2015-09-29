@@ -12,6 +12,7 @@ namespace qw1
         {
 
             Console.WriteLine("xclkvjosidjg!");
+            Console.ReadKey();
         }
     }
 }
