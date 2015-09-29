@@ -10,7 +10,8 @@ namespace qw1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("xclkvjosidjg!");
+            Console.WriteLine("xclkvjosidjg!");
             Console.WriteLine("xclkvjosidjg!");
             Console.ReadKey();
         }
